@@ -72,7 +72,7 @@ A production-style RESTful API for managing tasks, built with **Node.js**, **Exp
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-manager-api.git
+git clone https://github.com/backendbydeeksha/task-manager-api.git
 cd task-manager-api
 ```
 
